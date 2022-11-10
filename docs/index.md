@@ -1,4 +1,9 @@
 
-#Oliver Jarvis
+# Oliver Jarvis
 
-##lol hello there
+## Links
+
+> - [Github](https://github.com/ollyjarvis)
+> - [LinkedIn](https://www.linkedin.com/in/oliver-jarvis-b13469253/)
+
+
