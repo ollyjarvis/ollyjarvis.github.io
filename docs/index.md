@@ -10,6 +10,8 @@
     "want to learn": "Rust"
 }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollyjarvis&theme=github_dark&layout=compact)
+
 ### Links:
 
 - [Github: ollyjarvis](https://github.com/ollyjarvis)
