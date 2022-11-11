@@ -1,7 +1,15 @@
 # Oliver Jarvis
 
-## BSc Computer Science @ University of Leeds
+## BSc Computer Science @ [University of Leeds](https://www.leeds.ac.uk/)
 
+### <u>Languages</u>
+```json
+{
+    "studying": "C, R",
+    "used": "C, C#, R, Rust, Python, Java",
+    "want to learn": "Rust"
+}
+```
 ### <u>Links</u>
 
 - [Github: ollyjarvis](https://github.com/ollyjarvis)
