@@ -18,6 +18,8 @@
 
 - [LinkedIn: Oliver Jarvis](https://www.linkedin.com/in/oliver-jarvis-b13469253/)
 
+- [NSE: Oliver Jarvis](https://tournaments.nse.gg/profiles/d602f0fea2d548a79f2869f1d8b83c5b)
+
 - [Email: olly.m.jarvis@gmail.com](mailto:olly.m.jarvis@gmail.com)
 
 ### Systems:
